@@ -1,2 +1,2 @@
 # Counter App
-this is a simple ap using  React + TypeScript + Vite 
+this is a simple app using  React + TypeScript + Vite 
